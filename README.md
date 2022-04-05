@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning The basics
 - 💞️ I’m not looking to collaborate
-- 📫 How to breach my system: do not
+- 📫 How to breach my system: yoy can´t
 
 <!---
 A-I-H/A-I-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
